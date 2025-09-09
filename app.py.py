@@ -5,6 +5,7 @@ import random
 # Backend data (hidden from user)
 # ---------------------------------
 
+<<<<<<< HEAD
 
 st.set_page_config(page_title="InGame Character Ranker", page_icon="🎮")
 
@@ -14,6 +15,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
+=======
+>>>>>>> 099995fc05d50647ffd22005f0b12489905e6d12
 character_values = {
     "A-Patroa": 3, "A124": 8, "Alok": 9, "Alvaro": 8.5, "Andrew": 7.5,
     "Antonio": 5, "Caroline": 7, "Clu": 5, "Corono/CR7": 9, "D-bee": 5,
