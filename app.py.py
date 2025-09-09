@@ -4,9 +4,6 @@ import random
 # ---------------------------------
 # Backend data (hidden from user)
 # ---------------------------------
-st.markdown("""
-    <meta name="google-site-verification" content="ABC123xyz..." />
-""", unsafe_allow_html=True)
 
 character_values = {
     "A-Patroa": 3, "A124": 8, "Alok": 9, "Alvaro": 8.5, "Andrew": 7.5,
